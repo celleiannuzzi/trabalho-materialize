@@ -1,0 +1,16 @@
+body {
+	background-image: url("../img/background/literature.jpg");
+	height: 100%;
+	background-attachment: fixed;
+}
+
+nav {
+	font-family: 'Pacifico', cursive;
+	background-color: #ffab91;
+	margin-bottom: 13%;
+}
+
+#destacado {
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+}
